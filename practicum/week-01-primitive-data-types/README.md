@@ -1,5 +1,7 @@
 # Сeдмица 2 - Примитивни типове данни
 
+[Github classroom](https://classroom.github.com/a/WhPvk_tc)
+
 - за по удобно
   `a += 5 "==" a = a + 5`
   `a -= 5 "==" a = a - 5`

@@ -1,6 +1,6 @@
 # Седмица 2 - Условни оператори
 
-[Github assignment](https://classroom.github.com/classrooms/232598998-introduction-to-programming-2025/assignments/group-6-practicum-week-2)
+[Github assignment](https://classroom.github.com/a/YuUe7d5v)
 
 ## Truthy и Falsy стойности
 

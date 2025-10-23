@@ -10,6 +10,22 @@
 ---
 
 ```c
+    int a = 5;
+    int b = 10;
+    int *p1 = &a;
+    const int *p2 = &b;
+    int *const p3 = &b;
+    *p1 = 15; // OK: modifying the value of 'a' through p1
+    p1 = &b;  // OK: changing p1 to point to 'b'
+    *p2 = 20; // Error: cannot modify the value of 'b' through p2
+    p2 = &a;  // OK: changing p2 to point to 'a'
+    *p3 = 25; // Error: cannot modify the value of 'b' through p3
+    p3 = &a;  // OK: changing p3 to point to 'a'
+```
+
+---
+
+```c
 for (unsigned i = 10; i >= 0; i -= 2) {
        cout << i << " ";
 }

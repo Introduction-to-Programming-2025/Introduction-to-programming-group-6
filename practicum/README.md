@@ -9,3 +9,5 @@
 ## [Седмица 3 - Цикли](./week-03-loops/README.md)
 
 ## [Седмица 4 - Едномерни масиви](./week-04-arrays/README.md)
+
+## [Седмица 4 - Едномерни масиви](./week-05-exam-prep/README.md)

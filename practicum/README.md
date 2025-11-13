@@ -11,3 +11,5 @@
 ## [Седмица 4 - Едномерни масиви](./week-04-arrays/README.md)
 
 ## [Седмица 5 - Подготовка за контролно 1](./week-05-exam-prep/README.md)
+
+## [Седмица 5 - Функции](./week-06-functions-errors-bitwise/README.md)

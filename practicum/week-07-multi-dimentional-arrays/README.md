@@ -33,9 +33,9 @@ void f1(int arr[][MAX_COL], size_t n, size_t m)...
 ```c
 // Какво ще изведе?
 int a[3][4];
-std::cout << sizeof(g)/sizeof(g[0]);
-std::cout << sizeof(g)/sizeof(g[0][0]);
-std::cout << sizeof(arr[0])/sizeof(arr[0][0]);
+std::cout << sizeof(g)/sizeof(а[0]);
+std::cout << sizeof(g)/sizeof(а[0][0]);
+std::cout << sizeof(a[0])/sizeof(a[0][0]);
 // Да не се използва когато масива е подаден във функция
 ```
 

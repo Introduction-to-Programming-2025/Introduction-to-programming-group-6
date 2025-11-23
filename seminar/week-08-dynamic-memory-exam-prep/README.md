@@ -1,6 +1,6 @@
 # Седмица 8 - Динамична памет и подготовка за контролно 2 - 24.11.2025г.
 
-### [Github classroom](https://classroom.github.com/a/--v_gUD7)
+### [Github classroom](https://classroom.github.com/a/0uxzVWlr)
 
 
 ## Динамична памет

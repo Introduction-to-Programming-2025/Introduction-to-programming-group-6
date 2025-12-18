@@ -12,4 +12,14 @@
 
 ## [Седмица 5 - Подготовка за контролно 1](./week-05-exam-prep/README.md)
 
-## [Седмица 5 - Функции](./week-06-functions-errors-bitwise/README.md)
+## [Седмица 6 - Функции](./week-06-functions-errors-bitwise/README.md)
+
+## [Седмица 7 - Многомерни масиви](./week-07-multi-dimentional-arrays/README.md)
+
+## [Седмица 8 - Динамично заделяне на памет; Подготовка за архитектурно контролно ](./week-08-dynamic-memory-exam-prep2/README.md)
+
+## [Седмица 9 - Динамично заделяне на памет 2; ](./week-09-dynamic-memory-2/README.md)
+
+## [Седмица 10 - Символни низове; ](./week-09-dynamic-memory-2/README.md)
+
+## [Седмица 11 - Символни низове 2; Задачи за анализ; ](./week-11-strings2-exam-prep3/README.md)

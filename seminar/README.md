@@ -23,3 +23,5 @@
 ## [Седмица 11 - Подготовка за контролно 3](./week-11-strings-exam-prep)
 
 ## [Седмица 12 - Рекурсия](./week-12-recursion)
+
+## [Седмица 13 - Backtracking](./week-13-backtracking)

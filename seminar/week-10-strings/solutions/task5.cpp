@@ -32,7 +32,7 @@ void replace_substring(char* string, char substring[], char replacement[], char*
         
         index = find_first_occurrence(string, substring);
     }
-    strncpy(result, string, strlen(string));
+    strncpy(result, string, strlen(string) + 1);
 }
 
 int main() {

@@ -23,3 +23,7 @@
 ## [Седмица 10 - Символни низове; ](./week-09-dynamic-memory-2/README.md)
 
 ## [Седмица 11 - Символни низове 2; Задачи за анализ; ](./week-11-strings2-exam-prep3/README.md)
+
+## [Седмица 12 - Рекурсия ](./week-12-recursion/README.md)
+
+## [Седмица 13 - Backtracking ](./week-13-backtracking/README.md)
